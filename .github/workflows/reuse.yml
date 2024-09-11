@@ -9,7 +9,7 @@ jobs:
     with:
       who-to-greet: '@matuck'
   use-output:
-    needs: call-workflow
+    needs: [ call-workflow ]
     runs-on: ubuntu-latest
     steps:
       - run: echo "Time ran wqas ${{ needs.call-workflow.outputs.current-time }}
