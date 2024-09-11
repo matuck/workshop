@@ -12,4 +12,4 @@ jobs:
     needs: [ call-workflow ]
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Time ran wqas ${{ needs.call-workflow.outputs.current-time }}
+      - run: echo "Time ran was ${{ needs.call-workflow.outputs.current-time }}"
