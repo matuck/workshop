@@ -9,7 +9,7 @@ on:
         required: true
         default: World
     outputs:
-      current-time: ${{ seteps.time.outputs.time }}
+      current-time: ${{ steps.time.outputs.time }}
       value: ${{ jobs.reusable-job.outputs.current-time }}
 jobs:
   reusable-job:
