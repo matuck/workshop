@@ -15,7 +15,7 @@ Repo for the `GitHub Actions Fundamentals` training.
 - Workflow templates and __reusable workflows__
 
 ## Getting ready
-
+[skip ci]
 Please follow [these instructions](GettingReady.md) and make sure you have set up everything correctly following the [prerequisites](#-prerequisites).
 
 ## 📆 Agenda
@@ -65,7 +65,7 @@ For this workshop you need the following:
 - A free account for https://github.com
 - It is recommended to have a second screen for the hand-on labs
 
-## testing main branch commit
+## testing main branch commit 2
 
 ## Cheat Sheet
 Find common terminology for reference [here](./CheatSheet.md)
