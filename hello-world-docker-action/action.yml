@@ -11,6 +11,7 @@ outputs:
   time:
     description: 'The time we said hello.'
 runs:
+  using: "composite"
   using: 'docker'
   image: 'Dockerfile'
   args:
