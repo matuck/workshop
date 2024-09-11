@@ -2,4 +2,4 @@
 
 echo "hello $1"
 
-echo "time=$(date) >> SGITHUB_OUTPUT
+echo "time=$(date) >> SGITHUB_OUTPUT"
