@@ -65,7 +65,7 @@ For this workshop you need the following:
 - A free account for https://github.com
 - It is recommended to have a second screen for the hand-on labs
 
-## testing main branch commit 2
+## testing main branch commit branched
 
 ## Cheat Sheet
 Find common terminology for reference [here](./CheatSheet.md)
